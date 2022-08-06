@@ -1,0 +1,2 @@
+Hello , this is going to be the primary file of the project. The project is all about learning git and github. 
+I hope i can finish the complete video in this night. But only watch the video completely but also understand it very well.
